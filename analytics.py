@@ -1,8 +1,6 @@
 import re
 import yaml
 import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
 import networkx as nx
 from dateutil import parser
 import os
