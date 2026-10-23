@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyarrow
+pyyaml
+networkx
+python-dateutil
+python-dotenv
+groq
